@@ -692,7 +692,7 @@
 
 	#banner
 	{
-		background: #CCE8F4 url('../images/banner_cropped.jpg');
+		background: white url('../images/banner_cropped.jpg');
 		background-position: center center;
 		background-size: auto 100%;
 		/* background-size: 100%; */
@@ -702,8 +702,8 @@
 
 		#banner header
 		{
-			background-color: white;
-			/*background-color: rgba(34,30,31,0.98);*/
+			background-color: #252122;
+			background-color: rgba(34,30,31,0.98);
 		}
 		
 			#banner header h2
